@@ -16,3 +16,8 @@ run it fide-ratings-scraper api on your localhost
 ```
 $python AusTop100.py
 ```
+
+![Top 100 players with our program](https://github.com/vuhung16au/AusFIDETop100/blob/main/AusTop100.png)
+
+![Top 100 from FIDE]([https://someurl/imagelocation/image.png](https://github.com/vuhung16au/AusFIDETop100/blob/main/FIDE_Country_Top_chess_players.png))
+
